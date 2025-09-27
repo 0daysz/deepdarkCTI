@@ -272,3 +272,4 @@
 |[ReHubCom (Dark)](https://rehubg7wpn5vuwttbzqrzm5epq6ta5mqm6cbfpn7wtukaskzte3ehcyd.onion)| ONLINE | |
 |[ReHubCom (Deep)](https://rehubcom.pro)| ONLINE | |
 |[BITTEN FORUMS](http://bittenlxkoanw3uqq6b7cszxdws76waznboekwrjbq4t4i2ybhenluqd.onion)| ONLINE | |
+|[ZERODAY](http://zeroday5tywpc2fbwv6o6342w5nndic6bcvck4p24ofu6w73rpo2cuad.onion)| ONLINE | |
