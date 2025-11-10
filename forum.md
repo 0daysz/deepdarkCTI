@@ -125,7 +125,7 @@
 |[evilx](https://evilx.su/forum/)| ONLINE | |
 |[EXODUS](https://forum.exodusmarket.io)| ONLINE | |
 |[EXPLOIT.IN (Dark)](https://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion)| ONLINE | |
-|[EXPLOIT.IN (Deep)](https://exploit.in)| ONLINE | |
+|[EXPLOIT.IN (Deep)](https://exploit.in)| OFFLINE | |
 |[EXPLOIT FORUMS](https://exploitforums.net)| ONLINE | |
 |[EXPLOITS.WS](https://exploits.ws)| ONLINE | |
 |[ezcarder](https://ezcarder.is/)| ONLINE | |
@@ -276,3 +276,4 @@
 |[BITTEN FORUMS](http://bittenlxkoanw3uqq6b7cszxdws76waznboekwrjbq4t4i2ybhenluqd.onion)| ONLINE | |
 |[EXILIO404](http://exiliow4ctlzrvaglkgwqnpxdlvrxmdgvuy2hkbzqoziebfim6q5hwid.onion)| ONLINE | |
 |[XSSF](https://xssf.net/)|ONLINE||
+|[ZERODAY](http://zeroday5tywpc2fbwv6o6342w5nndic6bcvck4p24ofu6w73rpo2cuad.onion)|ONLINE||
